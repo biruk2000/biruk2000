@@ -8,8 +8,6 @@ Full-stack web developer
 *   ✉️  You can contact me at [birukmolla30@gmail.com](mailto:birukmolla30@gmail.com)
 *   🧠  I'm learning Go
 *   🤝  I'm open to collaborating on exciting projects as a frontend developer and opensource projects
-*   🔭 I’m currently working on ...
-*   👯 I’m looking to collaborate on ...
 *   💬 Ask me about javascript, Vuejs, Reactjs
 *   <a href="https://www.x.com/birukMTamene" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/birukMTamene?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
