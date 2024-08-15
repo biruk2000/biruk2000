@@ -6,7 +6,7 @@ Full-stack web developer
 
 *   🌍  I'm based in Addis Ababa, Ethiopia
 *   ✉️  You can contact me at [birukmolla30@gmail.com](mailto:birukmolla30@gmail.com)
-*   🧠  I'm learning Go, Python
+*   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on exciting projects as a frontend developer and opensource projects
 *   💬 Ask me about javascript, Vuejs, Reactjs
 *   <a href="https://www.x.com/birukMTamene" target="_blank" rel="noreferrer"><img
